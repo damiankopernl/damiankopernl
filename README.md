@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DamianICT
 - 👀 I’m interested in Codeing
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me info@damiankoper.nl / eenjochmettwitch#8264
+- 📫 How to reach me info@koperdamian.nl / eenjochmettwitch#2840
 
 <!---
 DamianICT/DamianICT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
