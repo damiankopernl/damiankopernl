@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamianICT
-- 👀 I’m interested in Codeing
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
 - 📫 How to reach me info@koperdamian.nl / eenjochmettwitch#2840
 
 <!---
