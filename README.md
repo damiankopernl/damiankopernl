@@ -2,7 +2,7 @@
 <h3 align="center">Just another dutch boi who loves to create tech shit!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damianict&style=flat-square&label=profile%20views&color=6366f1" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=damiankopernl&style=flat-square&label=profile%20views&color=6366f1" alt="views" />
 </p>
 
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/damianict/">
-    <img src="https://github-readme-stats.vercel.app/api?username=damiankopernlt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=damiankopernl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" >
   </a>
 </p>
 
@@ -39,7 +39,7 @@
   <a href="https://discord.com/invite/P3GmCgBAKb" target="_blank">
     <img src="./assets/discord.svg" height="32" width="32" alt="discord" >
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://damiankoper.nl/" target="_blank">
+  <a href="https://koperdamian.nl/" target="_blank">
     <img src="./assets/aniket.png" height="32" width="32" alt="website" >
   </a>
 </p>
