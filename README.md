@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/damianict/">
-    <img src="https://github-readme-stats.vercel.app/api?username=damianict&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=damiankopernlt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" >
   </a>
 </p>
 
